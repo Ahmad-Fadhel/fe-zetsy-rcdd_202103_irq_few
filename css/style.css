@@ -20,10 +20,8 @@ body {
 /* Write all remaining styles here */
 
 #header{
-  font-family: 'Baskerville', serif;
   border-bottom: 1px solid #ccc;
   margin-bottom: 10px;
-  font-weight: normal;
 }
 
 #header h1 {
@@ -35,6 +33,8 @@ body {
 #header a {
   text-decoration: none;
   color: rgb(152,173,166);
+  font-weight: normal;
+  font-family: 'Baskerville', serif;
 }
 
 #header a:hover{

@@ -61,6 +61,10 @@ p{
   text-decoration: none;
 }
 
+#magazinesAndPress{
+  margin-bottom: 20px;
+}
+
 #magazinesAndPress img{
   border: 5px #ccc solid;
   padding: 1px;

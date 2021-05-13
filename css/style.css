@@ -71,6 +71,11 @@ p{
   padding: 1px;
 }
 
+footer{
+  display: flex;
+  align-items: flex-end;
+}
+
 
 
 

@@ -67,7 +67,7 @@ p{
 }
 
 #magazinesAndPress img:hover{
-  border: 5px #ccc solid;
+  border: 5px solid gray;
   padding: 1px;
 }
 
